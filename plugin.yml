@@ -1,0 +1,12 @@
+name: CropDetection
+main: com.github.YellowSpy.CropDetection.CropDetection
+author: YellowSpy
+version: 0.1.2
+description: Crop state detection
+commands:
+   crpon:
+     description: Turn on Crop Detection.
+   crpoff:
+     description: Turn off Crop Detection.
+   crp:
+     description: Crop Detection commands.
